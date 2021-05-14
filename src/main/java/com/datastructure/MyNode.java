@@ -1,12 +1,5 @@
 package com.datastructure;
 
-class LinkedList {
-    public static void main(String[] agrs) {
-        System.out.println("Welcome to linked list");
-    }
-}
-
-/*
 public class MyNode<K> {
     private K key;
     private MyNode next;
@@ -24,4 +17,3 @@ public class MyNode<K> {
         this.next = next;
     }
 }
-*/
