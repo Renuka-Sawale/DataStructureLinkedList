@@ -1,2 +1,0 @@
-com/datastructure/MyNodeTest.java
- com.datastructure.MyNodeTest

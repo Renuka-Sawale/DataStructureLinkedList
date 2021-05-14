@@ -1,2 +1,0 @@
-com/datastructure/MyNode.java
- com.datastructure.LinkedList
